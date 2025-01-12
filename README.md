@@ -1,5 +1,8 @@
 ## Dashboard Overview and Key Insights
 
+![Screenshot 2025-01-12 152910](https://github.com/user-attachments/assets/b86abc65-2349-4b9f-b602-e20b0c61286b)
+
+
 The dashboard is organized into several sections, each focusing on a specific area of analysis:
 
 **1. Overall Performance:**
